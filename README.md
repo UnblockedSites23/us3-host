@@ -1,2 +1,2 @@
 # us3-host
-Fetches US3's Code
+This script fetches the code from US3
