@@ -1,2 +1,2 @@
 # us3-host
-This script fetches the code from US3
+Fork this Repo or copy "index.html" then embed it into a website
